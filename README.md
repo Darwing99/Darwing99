@@ -33,36 +33,72 @@ const anmol = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me gusta conocer gente!, por lo tanto estaré feliz de conocerte.</b> 😊</em>
 
----
-<!--START_SECTION:waka-->
-**I'm an early 🐤** 
 
-```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+## Que Herramientas Uso?
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗖</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖#</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Android Studio</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+        <td width="25%" align="center">
+        <span>Intellj IDEA</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
+      </td>
+    </tr>
+     <tr valign="top">
+        <td width="25%" align="center">
+        <span>Visual Studio</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Netbeans</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/netbeans.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Kotlin</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
+      </td>
+       <td width="25%" align="center">
+        <span>PHP</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-```
 
-
-📊 **Esta semana pasé mi tiempo es: ** 
+📊 **Sistemas Operativos que Uso: ** 
 
 ```text
 ⌚︎ Timezone: America/Tegucigalpa
-
-💬 Languages: 
-Java                     6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-Kotlin                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Javascript               2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-
-
-🔥 Editors: 
-Visual Studio Code       9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
-Intellj IDEA             5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
-Android Studio           2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
-Apache Netbeans          2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
 
 💻 Operating Systems: 
 Windows                  8 hrs 5 mins       █████████████   100.0%
