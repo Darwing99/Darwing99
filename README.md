@@ -49,7 +49,7 @@ const anmol = {
 📊 **Esta semana pasé mi tiempo es: ** 
 
 ```text
-⌚︎ Timezone: Asia/Calcutta
+⌚︎ Timezone: America/Tegucigalpa
 
 💬 Languages: 
 Java                     6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
