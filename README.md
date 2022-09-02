@@ -76,8 +76,9 @@ Linux CentoS             1 hrs 5 mins       ██   100.0%
 
 <p align="center">
 
- <a href="https://github.com/Darwing99"><img src="https://img.shields.io/github/followers/priyanshumay.svg?label=GitHub&style=social" alt="GitHub"></a>
+ <a href="https://github.com/Darwing99"><img src="https://img.shields.io/github/followers/Darwing99?label=GitHub&style=social" alt="GitHub"></a>
  <a href="https://www.linkedin.com/in/darwing-rodilso-hernandez-castellanos-95825a248/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+ ![Twitter Follow](https://img.shields.io/twitter/follow/Darwing23317025?label=Follow)
 </p>
 
 <p align="center">
