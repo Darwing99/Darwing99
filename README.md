@@ -31,7 +31,7 @@ const anmol = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me gusta conocer gente!, por lo tanto estaré feliz de conocerte.</b> 😊</em>
+<em><b>Me gusta conocer gente!, por lo tanto estaré feliz de conocerte.</b> 😊</em>
 
 
 ## Que Herramientas Uso?
@@ -158,6 +158,6 @@ Linux CentoS             1 hrs 5 mins       ██   100.0%
 
 </p><br>
 
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="auto">
 
 
