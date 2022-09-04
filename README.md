@@ -1,6 +1,4 @@
 <h2>Hola!, mi nombre es Darwing Rodilso Hernandez Castellanos <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
-
 ### Conocimientos
 
 ___
@@ -31,7 +29,7 @@ const anmol = {
 };
 ```
 
-<em><b>Me gusta conocer gente!, por lo tanto estaré feliz de conocerte.</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>Me gusta conocer gente!, por lo tanto estaré feliz de conocerte.</b> 😊</em>
 
 
 ## Que Herramientas Uso?
@@ -158,6 +156,5 @@ Linux CentoS             1 hrs 5 mins       ██   100.0%
 
 </p><br>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="auto">
 
 
