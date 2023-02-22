@@ -5,11 +5,9 @@ ___
 
 ```javascript
 const anmol = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Java", "Python", "Kotlin", "php"],
-    askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: ["Java","Xamarin Forms","JetPack Compose Kotlin"],
         frontEnd: {
             js: ["React"],
             Typescript:["Angular"]
@@ -18,7 +16,8 @@ const anmol = {
         backEnd: {
             js: ["node", "express", "SuiteScript"],
             Java: ["Spring Boot"],
-            php: ["Laravel"]
+            php: ["Laravel"],
+            C#:[".Net MVC","Net Core Api","WinForms"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["MMSQL", "MySql", "sqlite","PostgreSQL"],
