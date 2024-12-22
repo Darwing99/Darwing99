@@ -5,19 +5,19 @@ ___
 
 ```javascript
 const anmol = {
-    code: ["Javascript", "Java", "Python", "Kotlin", "php"],
+    code: ["Javascript", "Java", "Python", "Kotlin", "php",C#,Visual Basic,Typescript],
     technologies: {
-        mobileApp: ["Java","Xamarin Forms","JetPack Compose Kotlin"],
+        mobileApp: ["Flutter","Xamarin Forms","Jetpack Compose Kotlin"],
         frontEnd: {
-            js: ["React"],
-            Typescript:["Angular"]
+            Typescript:["Angular"],
             css: ["materialize","bootstrap"]
         },
         backEnd: {
             js: ["node", "express", "SuiteScript"],
             Java: ["Spring Boot"],
             php: ["Laravel"],
-            C#:[".Net MVC","Net Core Api","WinForms"]
+            C#:[".Net MVC","Net Core Api","Blazor","WinForms"],
+            VisualBasic:["Winforms"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["MMSQL", "MySql", "sqlite","PostgreSQL"],
@@ -55,7 +55,7 @@ const anmol = {
     <tr valign="top">
       <td width="25%" align="center">
         <span>Android Studio</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android.svg">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
@@ -121,12 +121,7 @@ Linux CentoS             1 hrs 5 mins       ██   100.0%
 <a href="https://github.com/Darwing99"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
 <a href="https://github.com/Darwing99"><img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
 <a href="https://github.com/Darwing99"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"></a>
-</p><br>
 
-<p align="center">					    
-<a href="https://github.com/Darwing99"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
-<a href="https://github.com/Darwing99"><img src="https://img.shields.io/badge/django-47474f.svg?style=for-the-badge&logo=django&logoColor=black&labelColor=ffffff" alt="django"></a>
-</p><br>
 
 <p align="center">
 <a href="https://github.com/Darwing99"><img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql"></a>
